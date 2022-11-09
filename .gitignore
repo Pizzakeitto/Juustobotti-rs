@@ -33,3 +33,6 @@ target/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,rust
+
+# cheese
+.env
